@@ -1,2 +1,39 @@
-# Porfolio
-En este repositorio unifico mis proyectos realizados este 2026. Con la finalidad de mostrar las herramientas que domino. Bienvenidos!!
+# 🌱 Portfolio – Jorge A. Fuentes (Lechu)
+
+Bienvenido a mi portafolio de proyectos del **2026**.  
+Aquí muestro mis trabajos organizados por **tecnologías**, cada uno con sus fases de desarrollo.
+
+---
+
+## 📂 Tecnologías
+
+### 🔹 C#
+Proyectos divididos en 4 fases:
+- **Fase 1 – Fundamentos**
+- **Fase 2 – Web y APIs**
+- **Fase 3 – Automatización**
+- **Fase 4 – Creativos**
+
+### 🔹 JavaScript (ES6)
+*(Próximamente)*
+
+### 🔹 PHP
+*(Próximamente)*
+
+### 🔹 Python
+*(Próximamente)*
+
+### 🔹 Java
+*(Próximamente)*
+
+### 🔹 Go (Golang)
+*(Próximamente)*
+
+### 🔹 TypeScript
+*(Próximamente)*
+
+---
+
+## 🌐 Sitio Web
+Este portafolio también está disponible en GitHub Pages:  
+👉 [Portfolio Web](https://lechudev.github.io/Porfolio)
