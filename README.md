@@ -10,6 +10,10 @@ Aquí muestro mis trabajos organizados por **tecnologías**, cada uno con sus fa
 ### 🔹 C#
 Proyectos divididos en 4 fases:
 - **Fase 1 – Fundamentos**
+  1. https://github.com/LechuDev/CalculadoraCientifica_Csharp
+  2. https://github.com/LechuDev/Gestor-de-Tareas_Cshap
+  3. https://github.com/LechuDev/Agenda-de-Contactos-Cshap
+  4.
 - **Fase 2 – Web y APIs**
 - **Fase 3 – Automatización**
 - **Fase 4 – Creativos**
