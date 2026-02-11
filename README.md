@@ -67,4 +67,4 @@ Proyectos divididos en 4 fases:
 
 ## 🌐 Sitio Web
 Este portafolio también está disponible en GitHub Pages:  
-👉 [Portfolio Web](https://lechudev.github.io/Portfolio)
+👉 [Portfolio Web](https://lechudev.github.io/Porfolio)
