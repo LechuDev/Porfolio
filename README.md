@@ -29,7 +29,6 @@ Proyectos divididos en 4 fases:
 
 - **Fase 3 – Automatización**
   🤖 Proyectos más técnicos/innovadores:
-  - Motor de reglas para automatizar procesos (ejemplo: aprobaciones)  
   - Generador de reportes PDF con datos dinámicos  
   - Sistema de recomendación básico (ejemplo: sugerir películas)  
   - Aplicación de scraping para recolectar datos de una web pública  
