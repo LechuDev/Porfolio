@@ -21,11 +21,11 @@ Proyectos divididos en 4 fases:
 
 - **Fase 2 – Web y APIs**
   🌐 Proyectos web:
-  - API RESTful para gestión de productos con ASP.NET Core  
-  - Mini e-commerce con carrito de compras y pagos simulados  
-  - Blog personal con autenticación y panel de administración  
-  - Sistema de encuestas online con estadísticas en tiempo real  
-  - Chat en tiempo real usando SignalR  
+  7. https://github.com/LechuDev/07CRUD_APIREST_Csharp - API RESTful para gestión de productos con ASP.NET Core  
+  8. https://github.com/LechuDev/08MiniEcommerceLocal_Csharp - Mini e-commerce con carrito de compras y pagos simulados  
+  9. - Blog personal con autenticación y panel de administración  
+  10. - Sistema de encuestas online con estadísticas en tiempo real  
+  11. - Chat en tiempo real usando SignalR  
 
 - **Fase 3 – Automatización**
   🤖 Proyectos más técnicos/innovadores:
