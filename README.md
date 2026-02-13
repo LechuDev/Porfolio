@@ -10,8 +10,7 @@ Aquí muestro mis trabajos organizados por **tecnologías**, cada uno con las te
 ### 🔹 C#
 Proyectos divididos en 4 fases:
 
-- **Fase 1 – Fundamentos (Proyectos de cajón)**
-
+- **Fase 1 – Fundamentos (Proyectos de cajón)**  
   🛠️ Clásicos pero imprescindibles:
   
    [01. Calculadora Científica](https://github.com/LechuDev/01CalculadoraCientifica_Csharp) – WinForms/WPF  
@@ -30,8 +29,7 @@ Proyectos divididos en 4 fases:
    [10. Encuestas](https://github.com/LechuDev/10Encuestas_Cshap) – sistema de encuestas online con estadísticas en tiempo real  
    [11. ChatApp](https://github.com/LechuDev/11ChatApp_Csharp) – chat en tiempo real usando SignalR  
 
-- **Fase 3 – Automatización**
-
+- **Fase 3 – Automatización**  
   🤖 Proyectos más técnicos/innovadores:
   
    [12 Generador PDF](https://github.com/LechuDev/12GeneradorPDF_Csharp) – generador de reportes PDF con datos dinámicos
@@ -39,9 +37,8 @@ Proyectos divididos en 4 fases:
   14. - Aplicación de scraping para recolectar datos de una web pública  
   15. - Automatizador de archivos (renombrar, mover, organizar carpetas)  
 
-- **Fase 4 – Creativos**
-
-  🎮 Proyectos creativos y llamativos:
+- **Fase 4 – Creativos**  
+   🎮 Proyectos creativos y llamativos:
   16- Juego 2D simple con Unity y C#  
   - Simulador de zombies (pequeño prototipo que conecta con mi proyecto de mundo abierto 🧟)  
   - Editor de personajes básico con sliders (mini versión de UI 3D)  
