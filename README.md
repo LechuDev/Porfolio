@@ -12,6 +12,7 @@ Proyectos divididos en 4 fases:
 
 - **Fase 1 – Fundamentos (Proyectos de cajón)**
   🛠️ Clásicos pero imprescindibles:
+  
    [01. Calculadora Científica](https://github.com/LechuDev/01CalculadoraCientifica_Csharp) – WinForms/WPF  
    [02. Gestor de Tareas](https://github.com/LechuDev/02Gestor-de-Tareas_Csharp) – CRUD con SQLite  
    [03. Agenda de Contactos](https://github.com/LechuDev/03Agenda-de-Contactos_Csharp) – búsqueda avanzada y exportación CSV  
@@ -20,7 +21,8 @@ Proyectos divididos en 4 fases:
    [06. PingPong GG IA](https://github.com/LechuDev/06PingPongGGIA_Csharp) – Pong con modo PvP y PvIA  
 
 - **Fase 2 – Web y APIs**  
-  🌐 Proyectos web:  
+  🌐 Proyectos web:
+  
    [07. CRUD API REST](https://github.com/LechuDev/07CRUD_APIREST_Csharp) – API RESTful para gestión de productos con ASP.NET Core  
    [08. Mini E-commerce Local](https://github.com/LechuDev/08MiniEcommerceLocal_Csharp) – carrito de compras y pagos simulados  
    [09. BlogApp](https://github.com/LechuDev/09BlogApp_Csharp) – blog personal con autenticación y panel de administración  
@@ -28,7 +30,8 @@ Proyectos divididos en 4 fases:
    [11. ChatApp](https://github.com/LechuDev/11ChatApp_Csharp) – chat en tiempo real usando SignalR  
 
 - **Fase 3 – Automatización**
-  🤖 Proyectos más técnicos/innovadores:  
+  🤖 Proyectos más técnicos/innovadores:
+  
    [12 Generador PDF](https://github.com/LechuDev/12GeneradorPDF_Csharp) – generador de reportes PDF con datos dinámicos
   13. - Sistema de recomendación básico (ejemplo: sugerir películas)  
   14. - Aplicación de scraping para recolectar datos de una web pública  
