@@ -39,6 +39,7 @@ Proyectos divididos en 4 fases:
 
 - **Fase 4 – Creativos**  
    🎮 Proyectos creativos y llamativos:
+  
   16- Juego 2D simple con Unity y C#  
   - Simulador de zombies (pequeño prototipo que conecta con mi proyecto de mundo abierto 🧟)  
   - Editor de personajes básico con sliders (mini versión de UI 3D)  
