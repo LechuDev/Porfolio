@@ -46,32 +46,46 @@ Proyectos divididos en 4 fases:
   19.- App de música que reproduzca playlists y tenga visualizaciones  
 
 ---
-
 ### 🔹 JavaScript (ES6)
-🔹 Web Apps útiles
-1. 	Kanban Board tipo Trello – drag & drop, persistencia en localStorage.
-2. 	Agenda inteligente – calendario con recordatorios y notificaciones.
-3. 	Gestor de gastos personales – gráficas interactivas con Chart.js.
-4. 	Mini CRM – clientes, notas, filtros, exportación CSV.
-5. 	Encuestas online – resultados en tiempo real con websockets.
-🔹 Frontend moderno
-6. 	Landing Page animada – transiciones con GSAP.
-7. 	Portfolio generator – subes datos, genera un sitio web automático.
-8. 	Dashboard de analítica – consumo de API pública (clima, finanzas).
-9. 	E-commerce simple – carrito, checkout simulado, persistencia.
-10. 	Blog multiusuario – autenticación con JWT y panel admin.
-🔹 Creativos y llamativos
-11. 	Juego arcade (runner/zombie) – canvas API.
-12. 	Editor de imágenes online – filtros, recortes, exportación.
-13. 	Generador de memes – subir imagen + texto dinámico.
-14. 	App de música – playlists, visualizaciones con Web Audio API.
-15. 	Generador de laberintos – algoritmo DFS/BFS visualizado.
-🔹 APIs y backend ligero
-16. 	API REST de productos – Node.js + Express.
-17. 	Chat en tiempo real – Socket.IO.
-18. 	Sistema de autenticación – login, roles, JWT.
-19. 	Gestor de notas – CRUD con MongoDB.
-20. 	Microservicio de recomendación – sugerencias básicas (películas, música).
+Proyectos divididos en 4 bloques:
+
+- **Bloque 1 – Web Apps útiles**  
+  🛠️ Aplicaciones prácticas para productividad:
+  
+   [01. Kanban Board](https://github.com/LechuDev/01TodoKanbanBoard_JS_ES6) – drag & drop, persistencia en localStorage  
+   [02. Agenda Inteligente](https://github.com/LechuDev/02AgendaInteligente_JS_ES6) – calendario con recordatorios y notificaciones  
+   [03. Gestor de Gastos](https://github.com/LechuDev/03ExpenseManager_JS_ES6) – gráficas interactivas con Chart.js  
+   [04. Mini CRM](https://github.com/LechuDev/04MiniCRM_JS_ES6) – clientes, notas, filtros, exportación CSV  
+   [05. Encuestas Online](https://github.com/LechuDev/05EncuestasOnline_JS_ES6) – resultados en tiempo real con websockets  
+   [06. Simulador de Datos (Extensión)](https://github.com/LechuDev/06SimuladorDatosExtension_JS_ES6) – autocompleta formularios con Faker.js  
+
+- **Bloque 2 – Frontend moderno**  
+  🌐 Interfaces dinámicas y atractivas:
+  
+   [07. Landing Page Animada](https://github.com/LechuDev/07LandingPageAnimada_JS_ES6) – transiciones con GSAP  
+   [08. Portfolio Generator](https://github.com/LechuDev/08PortfolioGenerator_JS_ES6) – genera un sitio web automático con tus datos  
+   [09. Dashboard de Analítica](https://github.com/LechuDev/09AnalyticsDashboard_JS_ES6) – consumo de API pública (clima, finanzas)  
+   [10. E-commerce Simple](https://github.com/LechuDev/10SimpleEcommerce_JS_ES6) – carrito, checkout simulado, persistencia  
+   [11. Blog Multiusuario](https://github.com/LechuDev/11MultiuserBlog_JS_ES6) – autenticación con JWT y panel admin  
+
+- **Bloque 3 – Creativos y llamativos**  
+   🎨 Proyectos con enfoque visual y entretenimiento:
+  
+   [12. Juego Arcade](https://github.com/LechuDev/12ArcadeGame_JS_ES6) – runner/zombie con canvas API  
+   [13. Editor de Imágenes](https://github.com/LechuDev/13ImageEditor_JS_ES6) – filtros, recortes, exportación  
+   [14. Generador de Memes](https://github.com/LechuDev/14MemeGenerator_JS_ES6) – subir imagen + texto dinámico  
+   [15. App de Música](https://github.com/LechuDev/15MusicApp_JS_ES6) – playlists y visualizaciones con Web Audio API  
+   [16. Generador de Laberintos](https://github.com/LechuDev/16MazeGenerator_JS_ES6) – algoritmo DFS/BFS visualizado  
+
+- **Bloque 4 – APIs y backend ligero**  
+   ⚙️ Servicios y lógica de servidor:
+  
+   [17. API REST de Productos](https://github.com/LechuDev/17APIRESTProductos_JS_ES6) – Node.js + Express  
+   [18. Chat en Tiempo Real](https://github.com/LechuDev/18ChatRealtime_JS_ES6) – Socket.IO  
+   [19. Sistema de Autenticación](https://github.com/LechuDev/19AuthSystem_JS_ES6) – login, roles, JWT  
+   [20. Gestor de Notas](https://github.com/LechuDev/20GestorNotas_JS_ES6) – CRUD con MongoDB  
+   [21. Microservicio de Recomendación](https://github.com/LechuDev/21RecommendationService_JS_ES6) – sugerencias básicas (películas, música)  
+
 
 ### 🔹 PHP
 *(Próximamente)*
