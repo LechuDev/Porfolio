@@ -14,8 +14,8 @@ Proyectos divididos en 4 fases:
   🛠️ Clásicos pero imprescindibles:
   
    [01. Calculadora Científica](https://github.com/LechuDev/01CalculadoraCientifica_Csharp) – WinForms/WPF  
-   [02. Gestor de Tareas](https://github.com/LechuDev/02Gestor-de-Tareas_Csharp) – CRUD con SQLite  
-   [03. Agenda de Contactos](https://github.com/LechuDev/03Agenda-de-Contactos_Csharp) – búsqueda avanzada y exportación CSV  
+   [02. Gestor de Tareas](https://github.com/LechuDev/02Gestor-de-Tareas_Cshap) – CRUD con SQLite  
+   [03. Agenda de Contactos](https://github.com/LechuDev/03Agenda-de-Contactos-Cshap) – búsqueda avanzada y exportación CSV  
    [04. Login y Roles](https://github.com/LechuDev/04LogingyRoles_Csharp) – hashing de contraseñas y roles de usuario  
    [05. Snake Game](https://github.com/LechuDev/05SnakeGame_Csharp) – juego clásico con gráficos simples  
    [06. PingPong GG IA](https://github.com/LechuDev/06PingPongGGIA_Csharp) – Pong con modo PvP y PvIA  
@@ -54,7 +54,7 @@ Proyectos divididos en 4 bloques:
   
    [01. Kanban Board](https://github.com/LechuDev/01TodoKanbanBoard_JS_ES6) – drag & drop, persistencia en localStorage  
    [02. Agenda Inteligente](https://github.com/LechuDev/02AgendaInteligente_JS_ES6) – calendario con recordatorios y notificaciones  
-   [03. Gestor de Gastos](https://github.com/LechuDev/03ExpenseManager_JS_ES6) – gráficas interactivas con Chart.js  
+   [03. Gestor de Gastos](https://github.com/LechuDev/03GestorGastos_JS_ES6) – gráficas interactivas con Chart.js  
    [04. Mini CRM](https://github.com/LechuDev/04MiniCRM_JS_ES6) – clientes, notas, filtros, exportación CSV  
    [05. Encuestas Online](https://github.com/LechuDev/05EncuestasOnline_JS_ES6) – resultados en tiempo real con websockets  
    [06. Simulador de Datos (Extensión)](https://github.com/LechuDev/06SimuladorDatosExtension_JS_ES6) – autocompleta formularios con Faker.js  
@@ -64,14 +64,14 @@ Proyectos divididos en 4 bloques:
   
    [07. Landing Page Animada](https://github.com/LechuDev/07LandingPageAnimada_JS_ES6) – transiciones con GSAP  
    [08. Portfolio Generator](https://github.com/LechuDev/08PortfolioGenerator_JS_ES6) – genera un sitio web automático con tus datos  
-   [09. Dashboard de Analítica](https://github.com/LechuDev/09AnalyticsDashboard_JS_ES6) – consumo de API pública (clima, finanzas)  
-   [10. E-commerce Simple](https://github.com/LechuDev/10SimpleEcommerce_JS_ES6) – carrito, checkout simulado, persistencia  
-   [11. Blog Multiusuario](https://github.com/LechuDev/11MultiuserBlog_JS_ES6) – autenticación con JWT y panel admin  
+   [09. Dashboard de Analítica](https://github.com/LechuDev/09Dashboard-de-anal-tica_JS_ES6) – consumo de API pública (clima, finanzas)  
+   [10. E-commerce Simple](https://github.com/LechuDev/10Ecommerce_JS_ES6) – carrito, checkout simulado, persistencia  
+   [11. Blog Multiusuario](https://github.com/LechuDev/11BlogMultiusuario_JS_ES6) – autenticación con JWT y panel admin  
 
 - **Bloque 3 – Creativos y llamativos**  
-   🎨 Proyectos con enfoque visual y entretenimiento:
+   🎨 Proyectos con enfoque visual y entretenimiento:           
   
-   [12. Juego Arcade](https://github.com/LechuDev/12ArcadeGame_JS_ES6) – runner/zombie con canvas API  
+   [12. Juego Arcade](https://github.com/LechuDev/12GameArcade_JS_ES6) – runner/zombie con canvas API  
    [13. Editor de Imágenes](https://github.com/LechuDev/13ImageEditor_JS_ES6) – filtros, recortes, exportación  
    [14. Generador de Memes](https://github.com/LechuDev/14MemeGenerator_JS_ES6) – subir imagen + texto dinámico  
    [15. App de Música](https://github.com/LechuDev/15MusicApp_JS_ES6) – playlists y visualizaciones con Web Audio API  
