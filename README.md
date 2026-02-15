@@ -7,7 +7,7 @@ Aquí muestro mis trabajos organizados por **tecnologías**, cada uno con las te
 
 ## 📂 Tecnologías
 
-### 🔹 C#
+### 🔹 C# .net Puro Vanilla
 Proyectos divididos en 4 fases:
 
 - **Fase 1 – Fundamentos (Proyectos de cajón)**  
@@ -45,8 +45,13 @@ Proyectos divididos en 4 fases:
   18.- Generador de laberintos con algoritmo DFS/BFS visualizado  
   19.- App de música que reproduzca playlists y tenga visualizaciones  
 
+#### Proyectos con Framwoks de .Net C#
+
+
+
+
 ---
-### 🔹 JavaScript (ES6)
+### 🔹 JavaScript (ES6) Puro Vanilla
 Proyectos divididos en 4 bloques:
 
 - **Bloque 1 – Web Apps útiles**  
@@ -87,8 +92,173 @@ Proyectos divididos en 4 bloques:
    [21. Microservicio de Recomendación](https://github.com/LechuDev/21RecommendationService_JS_ES6) – sugerencias básicas (películas, música)  
 
 
-### 🔹 PHP
-*(Próximamente)*
+#### Proyectos con Framwoks de JS ES6 (En planeacion)
+
+⚛️ React
+Mini e-commerce con carrito y pagos simulados → demuestra dominio de UI dinámica y lógica de negocio.
+
+App de recetas con filtros y favoritos → producto para usuarios finales, muestra manejo de estados y hooks.
+
+Agenda inteligente con recordatorios y notificaciones → útil para freelancers y empresas.
+
+Plataforma de cursos online con video player y progreso → atractivo para reclutadores por su complejidad.
+
+🌐 Next.js (sobre React)
+Blog personal con SSR y SEO optimizado → muestra que entiendes posicionamiento web.
+
+Marketplace de servicios freelance → producto vendible, con autenticación y perfiles.
+
+Dashboard de métricas con gráficas en tiempo real → ideal para empresas.
+
+Landing page para startups con integración de newsletter → reclutadores aman ver proyectos con marketing.
+
+🟢 Vue.js
+Gestor de tareas con drag & drop → UI intuitiva y atractiva.
+
+App de notas con markdown y exportación PDF → útil para estudiantes y profesionales.
+
+Sistema de reservas para restaurantes → producto vendible y aplicable.
+
+Galería de fotos con filtros y animaciones → muestra tu lado creativo.
+
+🔵 Nuxt.js (sobre Vue)
+Portal inmobiliario con búsqueda avanzada → producto realista y escalable.
+
+Sistema de blogs multiusuario → SSR y modularidad.
+
+Plataforma de eventos con registro y tickets → atractivo para empresas.
+
+App de noticias con categorías y notificaciones push → demuestra integración con APIs.
+
+🟥 Angular
+CRM básico para pequeñas empresas → muestra arquitectura empresarial.
+
+Sistema de inventarios con roles de usuario → útil y vendible.
+
+App de gestión escolar con calificaciones y asistencia → atractivo para sector educativo.
+
+Plataforma de encuestas con resultados en tiempo real → demuestra data binding y formularios complejos.
+
+🟠 Svelte
+App de productividad (to-do + Pomodoro) → ligera y rápida.
+
+Calculadora financiera con gráficos → útil para usuarios finales.
+
+Chat en tiempo real con WebSockets → muestra performance.
+
+App de clima con geolocalización → vendible y atractiva.
+
+🟡 SolidJS
+App de música con playlists y reproductor → UI reactiva sin virtual DOM.
+
+Gestor de hábitos con estadísticas → útil para usuarios finales.
+
+Mini red social con posts y comentarios → atractivo para reclutadores.
+
+App de fitness con rutinas y progreso → producto vendible.
+
+🌟 Astro
+Landing page para tu marca personal → performance brutal.
+
+Portfolio interactivo con componentes React/Vue → ideal para mostrar tu trabajo.
+
+Sitio de noticias con carga ultra rápida → vendible como producto.
+
+Landing page para negocios locales → aplicable y comercial.
+
+⚡ Qwik
+App de reservas instantáneas para barberías → carga inmediata, útil para negocios.
+
+Landing page de e-commerce con carga instantánea → performance top.
+
+Mini app de encuestas rápidas → vendible y ligera.
+
+Sitio de eventos con registro inmediato → atractivo para reclutadores.
+
+
+
+---
+
+### 🔹 PHP Puro Vanilla
+
+
+Excelente, Lechugas 🌱🔥. Ya con tu portafolio bien estructurado en **C#** y **JavaScript ES6**, toca abrir la sección de **PHP**. La idea es que esta sección muestre un dominio total del lenguaje, primero con proyectos en **PHP puro** y luego con frameworks populares, siempre con enfoque de producto final y atractivo para reclutadores.  
+
+---
+
+## 📌 Bloque 1 – PHP Puro (5–6 proyectos)
+Estos sirven para demostrar que dominas el lenguaje sin depender de frameworks:
+
+1. **Sistema de Gestión Escolar**  
+   - CRUD de alumnos, materias y calificaciones.  
+   - Exportación a PDF/CSV.  
+   - Panel admin con roles.  
+
+2. **Gestor de Inventario y Ventas**  
+   - Control de stock, entradas/salidas.  
+   - Reportes de ventas diarios/mensuales.  
+   - Persistencia en MySQL.  
+
+3. **Agenda de Contactos con Recordatorios**  
+   - CRUD de contactos.  
+   - Notificaciones vía correo (PHPMailer).  
+   - Exportación a Excel.  
+
+4. **Sistema de Encuestas Online**  
+   - Creación de encuestas dinámicas.  
+   - Resultados en tiempo real con gráficos.  
+   - Almacenamiento en base de datos.  
+
+5. **Mini CMS (Content Management System)**  
+   - Publicación de artículos.  
+   - Panel de administración.  
+   - Roles de usuario (admin/editor).  
+
+6. **Plataforma de Tickets de Soporte**  
+   - Registro de incidencias.  
+   - Seguimiento por estado (pendiente, en proceso, resuelto).  
+   - Notificaciones por email.  
+
+---
+
+## 📌 Bloque 2 – Frameworks PHP (12 proyectos, 3 por framework)
+
+### 🔹 Laravel
+1. **E-commerce avanzado** – carrito, checkout, pasarela de pago real (Stripe/PayPal).  
+2. **Sistema de gestión de usuarios** – login, roles, permisos, panel admin.  
+3. **Plataforma de cursos online** – CRUD de cursos, inscripciones, progreso de estudiantes.  
+
+### 🔹 Symfony
+1. **Blog corporativo** – autenticación JWT, panel admin, SEO-friendly.  
+2. **Sistema de reservas** – citas médicas/barbería con calendario y notificaciones.  
+3. **Gestor documental** – subida de archivos, categorización, búsqueda avanzada.  
+
+### 🔹 CodeIgniter
+1. **Mini ERP** – inventario, ventas, compras, reportes.  
+2. **Sistema de encuestas** – creación de encuestas, resultados en tiempo real.  
+3. **Gestor de proyectos** – tareas, deadlines, usuarios asignados.  
+
+### 🔹 CakePHP
+1. **CRM ligero** – clientes, notas, filtros, exportación CSV.  
+2. **Sistema de tickets de soporte** – incidencias, estados, notificaciones.  
+3. **Plataforma de noticias** – artículos, categorías, comentarios moderados.  
+
+### 🔹 Yii2
+1. **Microservicio de recomendaciones** – sugerencias de productos/películas.  
+2. **Gestor de notas** – CRUD con usuarios y roles.  
+3. **Sistema de autenticación** – login, registro, recuperación de contraseña.  
+
+### 🔹 Phalcon
+1. **Dashboard de analítica** – consumo de APIs públicas (clima, finanzas).  
+2. **Sistema de facturación** – generación de facturas PDF, control de pagos.  
+3. **Chat en tiempo real** – Socket.IO + backend Phalcon.  
+
+### 🔹 Zend Framework
+1. **Gestor de gastos personales** – gráficas interactivas con Chart.js.  
+2. **Blog multiusuario** – panel admin, roles, JWT.  
+3. **E-commerce simple** – carrito, checkout simulado, persistencia.  
+
+---
 
 ### 🔹 Python
 *(Próximamente)*
