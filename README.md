@@ -47,8 +47,7 @@ Proyectos divididos en 4 fases:
 
 #### Proyectos con Framwoks de .Net C#
 
-
-
+*(Próximamente)*
 
 ---
 ### 🔹 JavaScript (ES6) Puro Vanilla
@@ -92,7 +91,7 @@ Proyectos divididos en 4 bloques:
    [21. Microservicio de Recomendación](https://github.com/LechuDev/21RecommendationService_JS_ES6) – sugerencias básicas (películas, música)  
 
 
-#### Proyectos con Framwoks de JS ES6 (En planeacion)
+#### Proyectos con Framwoks de JS ES6 (En planeacion)(Trabajando)
 
 ⚛️ React
 Mini e-commerce con carrito y pagos simulados → demuestra dominio de UI dinámica y lógica de negocio.
