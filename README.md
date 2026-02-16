@@ -181,11 +181,6 @@ Sitio de eventos con registro inmediato → atractivo para reclutadores.
 
 ### 🔹 PHP Puro Vanilla
 
-
-Excelente, Lechugas 🌱🔥. Ya con tu portafolio bien estructurado en **C#** y **JavaScript ES6**, toca abrir la sección de **PHP**. La idea es que esta sección muestre un dominio total del lenguaje, primero con proyectos en **PHP puro** y luego con frameworks populares, siempre con enfoque de producto final y atractivo para reclutadores.  
-
----
-
 ## 📌 Bloque 1 – PHP Puro (5–6 proyectos)
 Estos sirven para demostrar que dominas el lenguaje sin depender de frameworks:
 
