@@ -7,7 +7,7 @@ Aquí muestro mis trabajos organizados por **tecnologías**, cada uno con las te
 
 ## 📂 Tecnologías
 
-### 🔹 C# .net Puro Vanilla
+### 🔹 C# asp.NET core Puro Vanilla
 Proyectos divididos en 4 fases:
 
 - **Fase 1 – Fundamentos (Proyectos de cajón)**  
