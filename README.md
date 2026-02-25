@@ -265,6 +265,26 @@ Sitio de eventos con registro inmediato → atractivo para reclutadores.
 ### 🔹 TypeScript
 *(Próximamente)*
 
+### 🔹 Flutter / Dart
+Proyectos divididos en 3 bloques:
+• 	Bloque 1 – Fundamentos (Apps básicas)
+🛠️ Para demostrar dominio inicial:
+1. 	Hello World App – interfaz mínima con hot reload.
+2. 	Calculadora móvil – operaciones básicas con UI responsiva.
+3. 	Gestor de Tareas – CRUD con persistencia en SQLite.
+• 	Bloque 2 – Apps útiles y vendibles
+🌐 Aplicaciones con valor real:
+4. Agenda Inteligente Flutter – recordatorios y notificaciones push.
+5. Mini E-commerce – carrito, checkout simulado, integración con API.
+6. ChatApp móvil – mensajería en tiempo real con Firebase.
+• 	Bloque 3 – Creativos y avanzados
+🎨 Proyectos llamativos para reclutadores:
+7. Juego 2D con Flutter Flame – prototipo arcade/zombie.
+8. App de Música – playlists y visualizaciones con animaciones.
+9. Dashboard móvil – gráficas en tiempo real con API externa.
+Proyectos con Frameworks/Extensiones de Flutter
+(Próximamente: integración con Firebase, Bloc, Riverpod, etc.)
+
 ---
 
 ## 🌐 Sitio Web
