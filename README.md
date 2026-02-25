@@ -181,7 +181,6 @@ Sitio de eventos con registro inmediato → atractivo para reclutadores.
 ### 🔹 PHP Puro Vanilla
 
 ## 📌 Bloque 1 – PHP Puro (5–6 proyectos)
-Estos sirven para demostrar que dominas el lenguaje sin depender de frameworks:
 
 1. **Sistema de Gestión Escolar**  
    - CRUD de alumnos, materias y calificaciones.  
