@@ -15,6 +15,38 @@ Cada lenguaje incluye:
 
 ---
 
+### 🔹 C
+- **00 – Fundamentos C**  
+  - Variables, bucles (`for`, `while`), funciones básicas.  
+  - Ejemplo: imprimir números del 0 al N.  
+- **Aplicaciones prácticas**  
+  - Calculadora en consola.  
+  - Gestor de contactos con archivos `.txt`.  
+- **Creativos**  
+  - Juego “Adivina el número”.  
+  - Mini Snake en consola con ASCII.  
+- **Avanzados**  
+  - CRUD con archivos binarios.  
+  - Simulación simple (ej. inventario).  
+
+---
+
+### 🔹 C++
+- **00 – Fundamentos C++**  
+  - Variables, bucles, clases y objetos.  
+  - Ejemplo: imprimir números del 0 al N.  
+- **Aplicaciones prácticas**  
+  - Calculadora científica en consola.  
+  - Agenda de contactos con persistencia en archivos.  
+- **Creativos**  
+  - Juego Pong en consola.  
+  - Generador de laberintos con DFS/BFS.  
+- **Avanzados**  
+  - Proyecto con **Qt** (GUI).  
+  - Mini motor de simulación (ej. física básica).  
+
+---
+
 ## 🔹 C# / ASP.NET Core
 
 - **00 – Fundamentos C#** → bucles, clases, estructuras básicas.  
