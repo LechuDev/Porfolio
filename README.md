@@ -1,7 +1,8 @@
 # 🌱 Portfolio – Jorge A. Fuentes (Lechu)
 
 Bienvenido a mi portafolio de proyectos del **2026**.  
-Aquí muestro mis trabajos organizados por **lenguajes y tecnologías**, cada uno con proyectos que van desde **Fundamentos** hasta **Aplicaciones avanzadas**.  
+Aquí muestro mis trabajos organizados por **lenguajes y tecnologías**, cada uno con proyectos que van desde **Fundamentos** hasta **Aplicaciones avanzadas**.  Con el objetivo de repasar y mostrar las herramientas que conozco.
+Es un gusto para mi que estes aqui y te tomes un tiempo para ver mi trabajo.
 
 ---
 
@@ -16,9 +17,7 @@ Cada lenguaje incluye:
 ---
 
 ### 🔹 C
-- **00 – Fundamentos C**  
-  - Variables, bucles (`for`, `while`), funciones básicas.  
-  - Ejemplo: imprimir números del 0 al N.  
+- **Fundamentos C**  
 - **Aplicaciones prácticas**  
   - Calculadora en consola.  
   - Gestor de contactos con archivos `.txt`.  
