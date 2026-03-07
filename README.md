@@ -1,8 +1,8 @@
 # 🌱 Portfolio – Jorge A. Fuentes (Lechu)
 
 Bienvenido a mi portafolio de proyectos del **2026**.  
-Aquí muestro mis trabajos organizados por **lenguajes y tecnologías**, cada uno con proyectos que van desde **Fundamentos** hasta **Aplicaciones avanzadas**.  Con el objetivo de repasar y mostrar las herramientas que conozco.
-Es un gusto para mi que estes aqui y te tomes un tiempo para ver mi trabajo.
+Aquí muestro mis trabajos organizados por **lenguajes y tecnologías**, cada uno con proyectos que van desde **Fundamentos** hasta **Aplicaciones avanzadas**. Con el objetivo de repasar y mostrar las herramientas que conozco.  
+Es un gusto para mí que estés aquí y te tomes un tiempo para ver mi trabajo.
 
 ---
 
@@ -17,7 +17,7 @@ Cada lenguaje incluye:
 ---
 
 ### 🔹 C
-- **Fundamentos C**  
+- [Fundamentos C](https://github.com/LechuDev/Fundamentos-C)
 - **Aplicaciones prácticas**  
   - Calculadora en consola.  
   - Gestor de contactos con archivos `.txt`.  
@@ -50,22 +50,22 @@ Cada lenguaje incluye:
 
 - **00 – Fundamentos C#** → bucles, clases, estructuras básicas.  
 - **Aplicaciones prácticas**  
-  - Calculadora Científica [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F01CalculadoraCientifica_Csharp")  
-  - Gestor de Tareas [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F02Gestor-de-Tareas_Cshap")  
-  - Agenda de Contactos [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F03Agenda-de-Contactos-Cshap")  
-  - Login y Roles [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F04LogingyRoles_Csharp")  
+  - [Calculadora Científica](https://github.com/LechuDev/01CalculadoraCientifica_Csharp)  
+  - [Gestor de Tareas](https://github.com/LechuDev/02Gestor-de-Tareas_Csharp)  
+  - [Agenda de Contactos](https://github.com/LechuDev/03Agenda-de-Contactos_Csharp)  
+  - [Login y Roles](https://github.com/LechuDev/04LogingyRoles_Csharp)  
 - **Creativos**  
-  - Snake Game [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F05SnakeGame_Csharp")  
-  - PingPong GG IA [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F06PingPongGGIA_Csharp")  
+  - [Snake Game](https://github.com/LechuDev/05SnakeGame_Csharp)  
+  - [PingPong GG IA](https://github.com/LechuDev/06PingPongGGIA_Csharp)  
   - Juego 2D con Unity  
   - Simulador de zombies (prototipo mundo abierto)  
   - Editor de personajes básico  
 - **Avanzados**  
-  - CRUD API REST [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F07CRUD_APIREST_Csharp")  
-  - Mini E-commerce Local [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F08MiniEcommerceLocal_Csharp")  
-  - BlogApp [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F09BlogApp_Csharp")  
-  - Encuestas [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F10Encuestas_Cshap")  
-  - ChatApp [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F11ChatApp_Csharp")  
+  - [CRUD API REST](https://github.com/LechuDev/07CRUD_APIREST_Csharp)  
+  - [Mini E-commerce Local](https://github.com/LechuDev/08MiniEcommerceLocal_Csharp)  
+  - [BlogApp](https://github.com/LechuDev/09BlogApp_Csharp)  
+  - [Encuestas](https://github.com/LechuDev/10Encuestas_Csharp)  
+  - [ChatApp](https://github.com/LechuDev/11ChatApp_Csharp)  
   - Generador PDF, WebScraper, Sistema de recomendación  
 
 ---
@@ -74,18 +74,18 @@ Cada lenguaje incluye:
 
 - **00 – Fundamentos JS** → bucles, funciones, arrays, objetos.  
 - **Aplicaciones prácticas**  
-  - Kanban Board [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F01TodoKanbanBoard_JS_ES6")  
-  - Agenda Inteligente [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F02AgendaInteligente_JS_ES6")  
-  - Gestor de Gastos [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F03GestorGastos_JS_ES6")  
-  - Mini CRM [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F04MiniCRM_JS_ES6")  
+  - [Kanban Board](https://github.com/LechuDev/01TodoKanbanBoard_JS_ES6)  
+  - [Agenda Inteligente](https://github.com/LechuDev/02AgendaInteligente_JS_ES6)  
+  - [Gestor de Gastos](https://github.com/LechuDev/03GestorGastos_JS_ES6)  
+  - [Mini CRM](https://github.com/LechuDev/04MiniCRM_JS_ES6)  
 - **Creativos**  
-  - Juego Arcade [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F12GameArcade_JS_ES6")  
-  - Editor de Imágenes [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F13ImageEditor_JS_ES6")  
-  - Generador de Memes [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F14MemeGenerator_JS_ES6")  
+  - [Juego Arcade](https://github.com/LechuDev/12GameArcade_JS_ES6)  
+  - [Editor de Imágenes](https://github.com/LechuDev/13ImageEditor_JS_ES6)  
+  - [Generador de Memes](https://github.com/LechuDev/14MemeGenerator_JS_ES6)  
 - **Avanzados**  
-  - API REST de Productos [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F17APIRESTProductos_JS_ES6")  
-  - Chat en Tiempo Real [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F18ChatRealtime_JS_ES6")  
-  - Sistema de Autenticación [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FLechuDev%2F19AuthSystem_JS_ES6")  
+  - [API REST de Productos](https://github.com/LechuDev/17APIRESTProductos_JS_ES6)  
+  - [Chat en Tiempo Real](https://github.com/LechuDev/18ChatRealtime_JS_ES6)  
+  - [Sistema de Autenticación](https://github.com/LechuDev/19AuthSystem_JS_ES6)  
   - Frameworks: React, Next.js, Vue, Angular, Svelte, etc.  
 
 ---
@@ -138,5 +138,3 @@ Cada lenguaje incluye:
 ## 🌐 Sitio Web
 Este portafolio también está disponible en GitHub Pages:  
 👉 [Portfolio Web](https://lechudev.github.io/Porfolio)
-
----
