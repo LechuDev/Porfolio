@@ -9,7 +9,7 @@ Es un gusto para mí que estés aquí y te tomes un tiempo para ver mi trabajo.
 ## 📂 Estructura General
 
 Cada lenguaje incluye:  
-- **00 – Fundamentos** → Sintaxis básica, bucles, variables, estructuras propias del lenguaje.  
+- **Fundamentos** → Sintaxis básica, bucles, variables, estructuras propias del lenguaje.  
 - **Aplicaciones prácticas** → CRUDs, utilidades, apps de productividad.  
 - **Creativos** → Juegos, visualizaciones, proyectos llamativos.  
 - **Avanzados** → Frameworks, arquitecturas, integración con APIs.  
@@ -31,9 +31,7 @@ Cada lenguaje incluye:
 ---
 
 ### 🔹 C++
-- **00 – Fundamentos C++**  
-  - Variables, bucles, clases y objetos.  
-  - Ejemplo: imprimir números del 0 al N.  
+- [Fundamentos Cpp](https://github.com/LechuDev/Fundamentos-Cpp)
 - **Aplicaciones prácticas**  
   - Calculadora científica en consola.  
   - Agenda de contactos con persistencia en archivos.
@@ -49,7 +47,7 @@ Cada lenguaje incluye:
 
 ## 🔹 C# / ASP.NET Core
 
-- **00 – Fundamentos C#** → bucles, clases, estructuras básicas.  
+- [Fundamentos C#]()
 - **Aplicaciones prácticas**  
   - [Calculadora Científica](https://github.com/LechuDev/01CalculadoraCientifica_Csharp)  
   - [Gestor de Tareas](https://github.com/LechuDev/02Gestor-de-Tareas_Csharp)  
@@ -73,7 +71,7 @@ Cada lenguaje incluye:
 
 ## 🔹 JavaScript (ES6)
 
-- **00 – Fundamentos JS** → bucles, funciones, arrays, objetos.  
+- [Fundamentos JS]() 
 - **Aplicaciones prácticas**  
   - [Kanban Board](https://github.com/LechuDev/01TodoKanbanBoard_JS_ES6)  
   - [Agenda Inteligente](https://github.com/LechuDev/02AgendaInteligente_JS_ES6)  
