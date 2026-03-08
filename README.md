@@ -36,7 +36,8 @@ Cada lenguaje incluye:
   - Ejemplo: imprimir números del 0 al N.  
 - **Aplicaciones prácticas**  
   - Calculadora científica en consola.  
-  - Agenda de contactos con persistencia en archivos.  
+  - Agenda de contactos con persistencia en archivos.
+  - RayCasting con C
 - **Creativos**  
   - Juego Pong en consola.  
   - Generador de laberintos con DFS/BFS.  
