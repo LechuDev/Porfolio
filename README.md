@@ -1,7 +1,7 @@
 # 🌱 Portfolio – Jorge A. Fuentes (Lechu)
 
 Bienvenido a mi portafolio de proyectos del **2026**.  
-Aquí muestro mis trabajos organizados por **lenguajes y tecnologías**, cada uno con proyectos que van desde **Fundamentos** hasta **Aplicaciones avanzadas**. Con el objetivo de repasar y mostrar las herramientas que conozco.  
+Aquí muestro mis trabajos organizados por **lenguajes y tecnologías** bajo la siuiente estructura.
 Es un gusto para mí que estés aquí y te tomes un tiempo para ver mi trabajo.
 
 ---
@@ -9,10 +9,10 @@ Es un gusto para mí que estés aquí y te tomes un tiempo para ver mi trabajo.
 ## 📂 Estructura General
 
 Cada lenguaje incluye:  
-- **Fundamentos** → Sintaxis básica, bucles, variables, estructuras propias del lenguaje.  
+- **Proyecto Fundamentos** → Sintaxis básica, bucles, variables, estructuras propias del lenguaje.  
 - **Aplicaciones prácticas** → CRUDs, utilidades, apps de productividad.  
 - **Creativos** → Juegos, visualizaciones, proyectos llamativos.  
-- **Avanzados** → Frameworks, arquitecturas, integración con APIs.  
+- **Avanzados** → Frameworks, arquitecturas, integración con APIs.
 
 ---
 
